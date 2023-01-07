@@ -31,17 +31,11 @@ For anyone using uBlock origin (myself included) you may see some icons fail to 
 
 Icons currently unavailable for:
 
-- Google Analytics
-- Google Ads
-- Google Android Pay
-- Google Blockly
-- Google Base
-- Google Books
-- Google Calculator
-- Google ChromeOS
-- Google ChromiumOS
-- Google Chromebooks
-- Google Cardboard
+- Other
+
+New idea: Row A1A, Row A1B, etc.
+
+1A variant will contain the DeGoogle article, 1B variant will contain the original logo for the product
 
 Articles coming soon for:
 
@@ -55,70 +49,156 @@ Articles coming soon for:
 - Google Colaboratory
 - Google Contacts
 - Google Currents
+- Other
 
 ### Table
 
 <table>
-  <!-- Row A1 !-->
+  <!-- Row A1A !-->
   <!-- Letter A !-->
   <tr>
-    <td align="center"><p>Section A1</p></td>
+    <td align="center"><p>Section A1A</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP/"><img src="/Graphics/A/Google-AMP/PNG/Anti-Google-AMP_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should avoid Google AMP 🧿️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Analytics 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics/"><img src="/Graphics/A/Google-Analytics/PNG/Anti-Google-Analytics_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Analytics 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/"><img src="/Graphics/A/Google-Android/PNG/Anti-Google-Android_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>DeGoogled Android Phone VM Research 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Accounts/"><img src="/Graphics/A/Google-Account/PNG/Anti-Google-Account_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Accounts 🧿️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google AdSense</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Allo/PNG/Anti-Google-Allo_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🪦️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Ads/PNG/Anti-Google-Ads_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense/"><img src="/Graphics/A/Google-AdSense/PNG/Anti-Google-AdSense_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google AdSense</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Allo/PNG/Anti-Google-Allo_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Allo 🪦️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Ads/PNG/Anti-Google-Ads_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Ads  🧿️</b></sub></a></td>
   </tr>
-  <!-- Row A2 !-->
+ <!-- Row A1B !-->
   <!-- Letter A !-->
   <tr>
-    <td align="center"><p>Section A2</p></td>
-    <td align="center"><a href="> https://github.com/seanpm2001/Why-you-should-stop-using-Android/"><img src="/Graphics/A/Google-Android/PNG/Anti-Google-Android_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Android</b></sub></a></td>
+    <td align="center"><p>Section A1B</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-AMP/PNG/AMP_logo_-_Brand-Blue.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google AMP</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Analytics/SVG/GAnalytics.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Analytics</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Android/SVG/Android_logo_2019_(stacked).svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Android (Operating System)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Account/SVG/Google_account_icon.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Account</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-AdSense/PNG/Adsense_rebranded_with_a_new_logo.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google AdSense</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Allo/SVG/GoogleAllo_icon.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Allo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Ads/SVG/Google_Ads_logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Ads</b></sub></a></td>
+  </tr>
+  <!-- Row A2A !-->
+  <!-- Letter A !-->
+  <tr>
+    <td align="center"><p>Section A2A</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Android/"><img src="/Graphics/A/Google-Android/PNG/Anti-Google-Android_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Android</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Apps-Script/PNG/Anti-Google-Apps-Script_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Arts-and-Culture/PNG/Anti-Google-Arts-and-Culture_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Hey-Google-Stop/"><img src="/Graphics/A/Google-Assistant/PNG/Anti-Google-Assistant_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Hey Google, Stop (Google Assistant) 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Authenticator/PNG/Anti-Google-Authenticator_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Android Pay 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay"><img src="/Graphics/A/Google-Android-Pay/PNG/Anti-Android-Pay_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Android Pay 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
-  <!-- Row B1 !-->
+  <!-- Row A2B !-->
+  <!-- Letter A !-->
+  <tr>
+    <td align="center"><p>Section A2B</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Android/"><img src="/Graphics/A/Google-Android/SVG/Android_logo_2019_(stacked).svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Android (Operating system)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Apps-Script/SVG/Google_Apps_Script.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Apps Script 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Arts-and-Culture/SVG/Arts_&_Culture_Logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Arts & Culture 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Hey-Google-Stop/"><img src="/Graphics/A/Google-Assistant/SVG/Google_Assistant_logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Assistant 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/A/Google-Authenticator/SVG/Google_Authenticator_for_Android_icon.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Authenticator 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay"><img src="/Graphics/A/Google-Android-Pay/SVG/Android_Pay_logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Android Pay 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+  <!-- Row B1A !-->
   <!-- Letter B !-->
   <tr>
-    <td align="center"><p>Section B1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Blockly 🧿️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Base/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Base 🧿️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Stop-reading-from-Google-Books/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Stop reading from Google Books 🧿️</b></sub></a></td>
+    <td align="center"><p>Section B1A</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly/"><img src="/Graphics/B/Google-Blockly/PNG/Anti-Google-Blockly_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Blockly 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Base/"><img src="/Graphics/B/Google-Base/PNG/Anti-Google-Base_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Base 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Stop-reading-from-Google-Books/"><img src="/Graphics/B/Google-Books/PNG/Anti-Google-Books_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Stop reading from Google Books 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
-  <!-- Row C1 !-->
+  <!-- Row B1B !-->
+  <!-- Letter B !-->
+  <tr>
+    <td align="center"><p>Section B1B</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly/"><img src="/Graphics/B/Google-Blockly/PNG/BlocklyLogo.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Blockly 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Base/"><img src="/Graphics/B/Google-Base/PNG/GoogleBaseBetaLogo.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Base 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Stop-reading-from-Google-Books/"><img src="/Graphics/B/Google-Books/SVG/Google_Books_logo_2020.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Books 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+  <!-- Row C1A !-->
   <!-- Letter C !-->
   <tr>
-    <td align="center"><p>Section C1</p></td>
+    <td align="center"><p>Section C1A</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Stop-using-Google-Classroom/"><img src="/Graphics/C/Google-Classroom/PNG/Anti-Google-Classroom_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Stop using Google Classroom 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calendar/"><img src="/Graphics/C/Google-Calendar/PNG/Anti-Google-Calendar_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Calendar 🧿️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calculator/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using the Google Calculator 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calculator/"><img src="/Graphics/C/Google-Calculator/PNG/Anti-Google-Calculator_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using the Google Calculator 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Camera/"><img src="/Graphics/C/Google-Camera/PNG/Anti-Google-Camera_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using the Google Camera 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Chat/PNG/Anti-Google-Chat_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/"><img src="/Graphics/C/Google-Chrome/PNG/Anti-Google-Chrome_Icon_1024px_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Chrome 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Chromium/PNG/Anti-Google-Chromium_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
   </tr>
+  <!-- Row C1B !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C1B</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Stop-using-Google-Classroom/"><img src="/Graphics/C/Google-Classroom/SVG/Google_Classroom_Logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Classroom 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calendar/"><img src="/Graphics/C/Google-Calendar/SVG/Google_Calendar_icon_(2020).svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Calendar 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calculator/"><img src="/Graphics/C/Google-Calculator/PNG/Google_stock_calculator_app_icon.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Calculator 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Camera/"><img src="/Graphics/C/Google-Camera/SVG/Google_Camera_Icon_(November_2014-2017).svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Camera 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Chat/SVG/Google_Chat_icon_(2020).svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Chat 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/"><img src="/Graphics/C/Google-Chrome/SVG/Google_Chrome_icon_(February_2022).svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Chrome 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Chromium/SVG/Chromium_Logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Chromium 🧿️</b></sub></a></td>
+  </tr>
   <!-- Row C2 !-->
   <!-- Letter C !-->
   <tr>
-    <td align="center"><p>Section C2</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Stop-using-Chromebooks/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Stop using Chromebooks 🧿️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Cardboard 🪦️</b></sub></a></td>
+    <td align="center"><p>Section C2A</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Stop-using-Chromebooks/"><img src="/Graphics/C/Google-Chromebooks/PNG/Anti-Google-Chromebook_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Stop using Chromebooks 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard/"><img src="/Graphics/C/Google-Cardboard/PNG/Anti-Google-Cardboard_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Why you should stop using Google Cardboard 🪦️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Cloud-Source-Repositories/PNG/Anti-Google-Cloud-Source-Repositories_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Colaboratory/PNG/Anti-Google-Colaboratory_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Contacts/PNG/Anti-Google-Contacts_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Currents/PNG/Anti-Google-Currents_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon 🪦️</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life"><img src="/Graphics/C/Google-ChromeOS/PNG/Anti-Google-ChromeOS_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
   </tr>
+  <!-- Row C2 !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C2B</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Stop-using-Chromebooks/"><img src="/Graphics/C/Google-Chromebooks/PNG/Chromebook-logo.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Chromebooks 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard/"><img src="/Graphics/C/Google-Cardboard/PNG/Google_Cardboard_logo.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Cardboard 🪦️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Cloud-Source-Repositories/SVG/Google_Cloud_Source_Repositories.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Cloud Source Repositories 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Colaboratory/SVG/Google_Colaboratory_SVG_Logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Colaboratory 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Contacts/SVG/Google_Contacts_icon.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Contacts 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-Currents/SVG/Google_Currents_2019_Logo.svg" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Currents 🪦️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life"><img src="/Graphics/C/Google-ChromeOS/PNG/Google_Chrome_OS_logo.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google ChromeOS</b></sub></a></td>
+  </tr>
+  <!-- Row C3 !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C3A</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-ChromiumOS/PNG/Anti-Google-ChromiumOS_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+  <!-- Row C3 !-->
+  <!-- Letter C !-->
+  <tr>
+    <td align="center"><p>Section C3B</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/C/Google-ChromiumOS/PNG/chromium-logo-old.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google ChromiumOS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoog-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+  
   <!-- Row D1 !-->
   <!-- Letter D !-->
   <tr>
@@ -397,9 +477,25 @@ Articles coming soon for:
   </tr>
 </table>
 
+<!-- Template
+  <!-- Row A1 !-->
+  <!-- Letter A !-->
+  <!--
+  <tr>
+    <td align="center"><p>Section A1</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-Life/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+  </tr>
+!-->
+
 ### Product listing
 
-Note: Keep this list in plain text, even after the project is catalogued. I feel we are going to need an alternive to Cody Ogdens Google graveyard.
+> **Note** Keep this list in plain text, even after the project is catalogued. I feel we are going to need an alternive to Cody Ogdens Google graveyard.
 
 #### A
 
@@ -575,10 +671,6 @@ Note: Keep this list in plain text, even after the project is catalogued. I feel
 
 ***
 
-#d
-
-***
-
-**File version:** `1 (2023, Monday, January 2nd at 6:30 pm PST)`
+**File version:** `2 (2023, Saturday, January 7th at 3:54 pm PST)`
 
 ***
