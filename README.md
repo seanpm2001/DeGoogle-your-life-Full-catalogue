@@ -10,17 +10,33 @@
 🚧️ **This page is under development** 🚧️
 > It is far from ready. Currently, it is only partially developed for the first 3 letters (A-C) with 23 more letters to go.
 
+***
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
 **Known issues:**
 
 - Lots of entries missing (I don't need help with this one)
 - Lots of icons missing (I don't need help with this one)
 - Some icons are crushed due to table formatting (I may need help with this one, but I will try reducing the number of entries per line to 5 first. I won't fix it today, but suggestions are welcome)
 
+</details>
+
+***
+
 ### For uBlock origin users
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 For anyone using uBlock origin (myself included) you may see some icons fail to load that contain words like "ad" or "analytics" in them. Additionally, it may also prevent you from starring repositories with 'ad' or 'analytics' in the title. I assume this is a failsafe functionality in uBlock that gets rid of ads. You can temporarily turn off uBlock origin on GitHub to see if this resolves it for you. There are no actual ads on this page.
 
+</details>
+
+***
+
 ### Legend
+
+<details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 | <img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/> |
 |---|
@@ -51,7 +67,13 @@ Articles coming soon for:
 - Google Currents
 - Other
 
+</details>
+
+***
+
 ### Table
+
+<details open><summary><p><b>Click/tap here to expand/collapse the table</b></p></summary>
 
 <table>
   <!-- Row A1A !-->
@@ -493,9 +515,15 @@ Articles coming soon for:
   </tr>
 !-->
 
+</details>
+
+***
+
 ### Product listing
 
-> **Note** Keep this list in plain text, even after the project is catalogued. I feel we are going to need an alternive to Cody Ogdens Google graveyard.
+<details open><summary><p><b>Click/tap here to expand/collapse the product listing</b></p></summary>
+
+> **Note** Keep this list in plain text, even after the project is catalogued. I feel we are going to need an alternative to Cody Ogdens [Google graveyard](https://killedbygoogle.com/).
 
 #### A
 
@@ -663,14 +691,142 @@ Articles coming soon for:
 - YouTube Originals [dead]
 - YouTube for Wii [dead]
 - YouTube for Wii U [dead]
-- YouTUbe for Nintendo 3DS [dead]
+- YouTube for Nintendo 3DS [dead]
 
 #### Z
 
 - Google ZygoteBody [dead]
 
+</details>
+
 ***
 
-**File version:** `2 (2023, Saturday, January 7th at 3:54 pm PST)`
+### File info
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+
+**File version:** `3 (2023, Saturday, January 7th at 4:37 pm PST)`
+
+**Line count (including blank lines and compiler line):** `833`
+
+**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
+
+***
+
+## File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+<details><summary><p lang="en"><b>Version 1 (2023, Monday, January 2nd at 6:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the title section
+- [x] Added tags to the top of the page
+- [x] Added the `This page is under development` section
+- [x] Added the `Known issues` section
+- [x] Added the `For uBlock origin users` section
+- [x] Added the `Legend` section
+- [x] Added the `Table` section
+- - [x] Filled in several entries in rows A, B, and C
+- [x] Added the `Product listing` section
+- - [x] Added the `A` subsection
+- - [x] Added the `B` subsection
+- - [x] Added the `C` subsection
+- - [x] Added the `D` subsection
+- - [x] Added the `E` subsection
+- - [x] Added the `F` subsection
+- - [x] Added the `G` subsection
+- - [x] Added the `H` subsection
+- - [x] Added the `I` subsection
+- - [x] Added the `J` subsection
+- - [x] Added the `K` subsection
+- - [x] Added the `L` subsection
+- - [x] Added the `M` subsection
+- - [x] Added the `N` subsection
+- - [x] Added the `O` subsection
+- - [x] Added the `P` subsection
+- - [x] Added the `Q` subsection
+- - [x] Added the `R` subsection
+- - [x] Added the `S` subsection
+- - [x] Added the `T` subsection
+- - [x] Added the `U` subsection
+- - [x] Added the `V` subsection
+- - [x] Added the `W` subsection
+- - [x] Added the `X` subsection
+- - [x] Added the `Y` subsection
+- - [x] Added the `Z` subsection
+- [x] Added a glitched section
+- [x] Added a file version timestamp
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Saturday, January 7th at 3:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Legend` section
+- [x] Updated the table
+- - [x] Added in several missing icons in the A, B, and C rows
+- - [x] Began adding in A and B variants for each row (this new extra row is for the original Google product logos/icons, as it can be hard to tell what icon is being displayed through the `🚫️` sign. Additionally, these rows will contain the names of the Google products, instead of the names of the articles)
+- [x] Updated the file version timestamp
+- [x] Removed the glitched section
+- [ ] No other changes in version 2
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2023, Saturday, January 7th at 4:37 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Known issues` section
+- - [x] Turned the section into a dropdown section
+- [x] Updated the `For uBlock origin users` section
+- - [x] Turned the section into a dropdown section
+- [x] Updated the `Legend` section
+- - [x] Turned the section into a dropdown section
+- [x] Updated the `Table` section
+- - [x] Turned the section into a dropdown section
+- [x] Updated the `Project listing` section
+- - [x] Turned the section into a dropdown section
+- [x] Removed the file version timestamp in place of the new file info section
+- [x] Added the `file info` section
+- - [x] Added the version number
+- - [x] Added the version date
+- - [x] Added the line count
+- - [x] Added the current encoding
+- - [x] Added the current language
+- - [x] Added a time zone note
+- - [x] Added a couple notes about DST (Daylight Savings Time)
+- - [x] Added a special characters warning
+- [x] Added the `file history` section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
+
+</details>
+
+</details>
 
 ***
