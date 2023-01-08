@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2023). This is Sean P. Myricks listing of DeGoogle article projects in a readable form. You can cite this repository if you want to cite the catalog itself, but you need to navigate to the citable DeGoogle projects in order to cite them individually or in bulk. [Data set]. https://doi.org/10.0000/00000
