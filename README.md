@@ -19,6 +19,7 @@
 - Lots of entries missing (I don't need help with this one)
 - Lots of icons missing (I don't need help with this one)
 - Some icons are crushed due to table formatting (I may need help with this one, but I will try reducing the number of entries per line to 5 first. I won't fix it today, but suggestions are welcome)
+- Lots of images of the Google product logo without the `🚫️` sign are not yet included.
 
 </details>
 
@@ -249,10 +250,10 @@ Articles coming soon for:
   <!-- Letter F !-->
   <tr>
     <td align="center"><p>Section F1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Fuchsia</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Families/"><img src="/Graphics/F/Google-Families/PNG/Anti-Google-Families_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Families 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fiber/"><img src="/Graphics/F/Google-Fiber/PNG/Anti-Google-Fiber_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Fiber 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fit/"><img src="/Graphics/F/Google-Fit/PNG/Anti-Google-Fit_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Fit 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fonts/"><img src="/Graphics/F/Google-Fonts/PNG/Anti-Google-Fonts_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Fonts 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -261,8 +262,8 @@ Articles coming soon for:
   <!-- Letter G !-->
   <tr>
     <td align="center"><p>Section G1</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gallery/"><img src="/Graphics/G/Google-Gallery/PNG/Anti-Google-Gallery_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Gallery 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>GMail</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -345,7 +346,7 @@ Articles coming soon for:
   <!-- Letter N !-->
   <tr>
     <td align="center"><p>Section N1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Nexus/"><img src="/Graphics/N/Google-Nexus/PNG/Anti-Google-Nexus_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Nexus 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -369,10 +370,10 @@ Articles coming soon for:
   <!-- Letter P !-->
   <tr>
     <td align="center"><p>Section P1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Peridot/"><img src="/Graphics/P/Google-Peridot/PNG/Anti-Google-Peridot_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Peridot 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Pixel/"><img src="/Graphics/P/Google-Pixel/PNG/Anti-Google-Pixel_1080pWallpaper_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Pixel 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Play-Movies/"><img src="/Graphics/P/Google-Play-Movies/PNG/Anti-Google-Play-Movies_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Play Movies 🧿️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Plus/"><img src="/Graphics/P/Google-Plus/PNG/Anti-Google-Plus_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Plus 🪦️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -393,7 +394,7 @@ Articles coming soon for:
   <!-- Letter R !-->
   <tr>
     <td align="center"><p>Section R1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-ReCaptcha/"><img src="/Graphics/R/Google-ReCaptcha/PNG/Anti-Google-ReCaptcha_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google ReCaptcha 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -405,8 +406,8 @@ Articles coming soon for:
   <!-- Letter S !-->
   <tr>
     <td align="center"><p>Section S1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Stadia/"><img src="/Graphics/S/Google-Stadia/PNG/Anti-Google-Stadia_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Stadia 🪦️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Scholar/"><img src="/Graphics/S/Google-Scholar/PNG/Anti-Google-Scholar_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Scholar 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -417,7 +418,7 @@ Articles coming soon for:
   <!-- Letter T !-->
   <tr>
     <td align="center"><p>Section T1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Travel/"><img src="/Graphics/T/Google-Travel/PNG/Anti-Google-Travel_1024pxIcon_V1_HighCompression.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Google Travel 🧿️</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/P/Placeholder/Forbidden.png" width="100px;" height="100px;" alt=""/><br /><sub><b>Coming soon</b></sub></a></td>
@@ -707,9 +708,9 @@ Articles coming soon for:
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Saturday, January 7th at 4:37 pm PST)`
+**File version:** `4 (2023, Tuesday, February 21st at 4:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `833`
+**Line count (including blank lines and compiler line):** `859`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -824,6 +825,31 @@ Articles coming soon for:
 - - [x] Added an entry for version 2
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Tuesday, February 21st at 4:00 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the table
+- - [x] Added new entries to row F
+- - [x] Added new entries to row G
+- - [x] Added new entries to row N
+- - [x] Added new entries to row P
+- - [x] Added new entries to row R
+- - [x] Added new entries to row S
+- - [x] Added new entries to row T
+- [x] Updated the `Known issues` section 
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
