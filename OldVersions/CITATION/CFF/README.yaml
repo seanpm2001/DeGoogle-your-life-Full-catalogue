@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this project (DeGoogle article portal database) please cite it as below. If you are looking to cite an individual repoisitory, continue reading."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DeGoogle your Life Full Catalog"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2023-01-02
+# Date the repository was created
+url: "https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/"
+cff-version: 1.2.0
+message: "If you use this project (DeGoogle article portal database) please cite it as below. If you are looking to cite an individual repoisitory, continue reading."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: ""
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2023-01-07
+url: "https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "DeGoogle your Life Full catalog"
+  month: 01
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "This is Sean P. Myricks listing of DeGoogle article projects in a readable form. You can cite this repository if you want to cite the catalog itself, but you need to navigate to the citable DeGoogle projects in order to cite them individually or in bulk."
+  issue: 1
+  volume: 1
+  year: 2023
+# File info
+# File version: 1 (2023, Saturday, January 7th at 4:14 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
